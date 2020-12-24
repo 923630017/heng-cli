@@ -37,6 +37,11 @@ const templates = {
         downloadUrl: 'http://github.com:923630017/libii#master', // 下载地址
         description: 'iview模板',
     },
+    'react-ant': {
+        url: 'https://github.com/923630017/react-ant', // 仓库地址
+        downloadUrl: 'http://github.com:923630017/react-ant#master', // 下载地址
+        description: 'react-ant模板',
+    },
 }
 
 // init <template> <project>

@@ -5,4 +5,4 @@ heng list 列出所有可用模板
 
 heng --help  查看帮助
 
-my-cli -V | --vsrsion 查看版本
+heng -V | --vsrsion 查看版本
