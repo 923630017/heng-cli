@@ -1,0 +1,22 @@
+{
+  "name": "heng-cli",
+  "version": "1.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "heng": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^4.0.0",
+    "ora": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/923630017/heng-cli.git"
+  } 
+}
