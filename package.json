@@ -1,10 +1,10 @@
 {
-  "name": "heng-cli",
+  "name": "libiimould-cli",
   "version": "1.0.5",
   "main": "index.js",
   "license": "MIT",
   "bin": {
-    "heng": "index.js"
+    "libii": "index.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
